@@ -6,4 +6,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-moru)](https://github.com/prasad-moru/github-readme-stats)
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=prasad-moru.prasad-moru)
+![Profile Views](https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/prasad-moru.prasad-moru)
