@@ -85,10 +85,10 @@ Passionate Cloud & DevOps Engineer with expertise in building scalable infrastru
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](Your LinkedIn URL)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([Your LinkedIn URL](https://www.linkedin.com/in/bhavaniprasadmoru/))
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](Your Twitter URL)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](Your Medium URL)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](Your Dev.to URL)
+
+
 
 </div>
 
