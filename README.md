@@ -71,8 +71,9 @@ Passionate Cloud & DevOps Engineer focused on implementing projects that help ot
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasad-moru&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=prasad-moru&theme=dark" alt="GitHub Streak Stats" />
 </div>
+
 
 ## 🚀 Featured Projects
 
