@@ -100,9 +100,9 @@ Passionate Cloud & DevOps Engineer focused on implementing projects that help ot
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Blog Post 1 Title](Link to blog post)
-- [Blog Post 2 Title](Link to blog post)
-- [Blog Post 3 Title](Link to blog post)
+- https://www.hitechminds.com/blog/critical-devops-tasks-real-world-challenges-solutions-from-the-trenches
+- https://www.hitechminds.com/blog/devops-tasks-simplified-practical-examples-and-guidance
+- https://www.hitechminds.com/blog/cloud-and-devops-engieer-interview
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Connect With Me
