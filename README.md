@@ -77,10 +77,16 @@ Passionate Cloud & DevOps Engineer focused on implementing projects that help ot
 
 ## 🚀 Featured Projects
 
-### Project 1: [Project Name]
-- **Description**: Brief description of the project
+### Project 1: ecom-spring-microservices
+- **Description**: This repository contains the latest source code of the spring-boot-microservices.
+-  Product Service
+   Order Service
+   Inventory Service
+   Notification Service
+   API Gateway using Spring Cloud Gateway MVC
+   Shop Frontend using Angular 18
 - **Technologies**: AWS, Terraform, Kubernetes, etc.
-- **Repository**: [Link to repository]
+- **Repository**: http://github.com/prasad-moru/ecom-spring-microservices
 
 ### Project 2: [Project Name]
 - **Description**: Brief description of the project
