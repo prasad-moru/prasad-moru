@@ -88,15 +88,15 @@ Passionate Cloud & DevOps Engineer focused on implementing projects that help ot
 - **Technologies**: AWS, Terraform, Kubernetes, etc.
 - **Repository**: http://github.com/prasad-moru/ecom-spring-microservices
 
-### Project 2: [Project Name]
-- **Description**: Brief description of the project
-- **Technologies**: Azure, Docker, GitHub Actions, etc.
-- **Repository**: [Link to repository]
+### Project 2: multi_cloud_stratagies
+- **Description**: A comprehensive Infrastructure as Code (IaC) repository for deploying and managing resources across multiple cloud providers (AWS and GCP).
+- **Technologies**: AWS Cloud, GCP Cloud.
+- **Repository**: https://github.com/prasad-moru/multi_cloud_stratagies
 
-### Project 3: [Project Name]
-- **Description**: Brief description of the project
-- **Technologies**: GCP, Ansible, Jenkins, etc.
-- **Repository**: [Link to repository]
+### Project 3: GCP Cloud, Infra Landing Zone
+- **Description**: This repository contains Terraform configurations for deploying and managing infrastructure on Google Cloud Platform (GCP).
+- **Technologies**: GCP Cloud.
+- **Repository**: https://github.com/prasad-moru/landing_zone_gcp
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
