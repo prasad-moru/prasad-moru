@@ -75,35 +75,6 @@ Passionate Cloud & DevOps Engineer focused on implementing projects that help ot
 </div>
 
 
-## 🚀 Featured Projects
-
-### Project 1: ecom-spring-microservices
-- **Description**: This repository contains the latest source code of the spring-boot-microservices.
--  Product Service,
-   Order Service,
-   Inventory Service,
-   Notification Service,
-   API Gateway using Spring Cloud Gateway MVC,
-   Shop Frontend using Angular 18.
-- **Technologies**: AWS, Terraform, Kubernetes, etc.
-- **Repository**: http://github.com/prasad-moru/ecom-spring-microservices
-
-### Project 2: multi_cloud_stratagies
-- **Description**: A comprehensive Infrastructure as Code (IaC) repository for deploying and managing resources across multiple cloud providers (AWS and GCP).
-- **Technologies**: AWS Cloud, GCP Cloud.
-- **Repository**: https://github.com/prasad-moru/multi_cloud_stratagies
-
-### Project 3: GCP Cloud, Infra Landing Zone
-- **Description**: This repository contains Terraform configurations for deploying and managing infrastructure on Google Cloud Platform (GCP).
-- **Technologies**: GCP Cloud.
-- **Repository**: https://github.com/prasad-moru/landing_zone_gcp
-
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- https://www.hitechminds.com/blog/critical-devops-tasks-real-world-challenges-solutions-from-the-trenches
-- https://www.hitechminds.com/blog/devops-tasks-simplified-practical-examples-and-guidance
-- https://www.hitechminds.com/blog/cloud-and-devops-engieer-interview
-<!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Connect With Me
 
