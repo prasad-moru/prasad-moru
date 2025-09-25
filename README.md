@@ -9,7 +9,7 @@
 
 Passionate Cloud & DevOps Engineer focused on implementing projects that help others learn cloud and DevOps technologies. I'm dedicated to sharing my knowledge and experience from my current and previous projects with the community. I believe in collaborative learning and growth - let's learn together and grow together!
 
-- 🔭 I'm currently working on **Cloud & DevOps learning projects**
+- 🔭 I'm currently working on **Cloud & DevOps projects**
 - 🌱 I'm continuously expanding my knowledge in **modern DevOps practices**
 - 👯 I'm looking to collaborate on **projects that benefit the tech community**
 - 💬 Ask me about **AWS, Kubernetes, Terraform, CI/CD, Docker, IaC**
